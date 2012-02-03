@@ -1,6 +1,6 @@
 
 
-#slider_outer{ width:801px; height:333px; padding:10px 24px 25px 23px; background:url(../images/slider_bg.png) no-repeat;}
+#slider_outer{ width:801px; height:333px; padding:10px 24px 25px 23px; background:url(https://github.com/rockydoll/rockyassets/raw/master/images/slider_bg.png) no-repeat;}
 
 .slider-wrapper{ width:800px; height:230px; padding-bottom:10px; }
 
@@ -45,13 +45,13 @@
 	display:block;
 	width:43px;
 	height:74px;
-	background:url(../images/left_arrow.png) no-repeat;
+	background:url(https://github.com/rockydoll/rockyassets/raw/master/images/left_arrow.png) no-repeat;
 	text-indent:-9999px;
 	border:0;
 }
 
 .nivo-nextNav {
-background:url(../images/right_arrow.png) no-repeat!important;
+background:url(https://github.com/rockydoll/rockyassets/raw/master/images/right_arrow.png) no-repeat!important;
 
 }
 .nivo-prevNav {
